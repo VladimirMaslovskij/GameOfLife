@@ -1,0 +1,12 @@
+10,12,2
+O O O O O O O O O O O O
+O O O X X X O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O X X X O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
+O O O O O O O O O O O O
